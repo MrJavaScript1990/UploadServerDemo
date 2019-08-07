@@ -1,0 +1,20 @@
+{
+  "name": "node-upload-server",
+  "version": "1.0.0",
+  "description": "Upload files using express and multer ",
+  "main": "app.js",
+  "scripts": {
+    "start": "babel-node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "fs": "0.0.1-security",
+    "multer": "^1.3.0"
+  }
+}
