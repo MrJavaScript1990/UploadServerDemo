@@ -2,7 +2,7 @@ import express from 'express'
 import fs from "fs";
 const router = express.Router();
 
-router.get('/', (req, res) => {
+router.get('/get', (req, res) => {
     let temp=fs.readFileSync('./db/db.txt');
     temp.toString().replace(' ','\n');
     res.render('index', {

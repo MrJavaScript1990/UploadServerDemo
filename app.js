@@ -1,9 +1,6 @@
 import ejs from 'ejs'
-import multer from 'multer'
-import path from 'path'
 import express from 'express'
-import fs from 'fs'
-
+import helmet from 'helmet';
 
 import uploadApi from './routes/uploadApi'
 import dataList from './routes/dataList'
@@ -17,7 +14,7 @@ app.set('view engine', 'ejs');
 
 
 app.use(express.static('./public'));
-
+//app.use(helmet());
 
 app.use('/api/upload',uploadApi);
 app.use('/api/dataList',dataList);
