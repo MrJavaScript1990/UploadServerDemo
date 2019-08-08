@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed834ffe-b496-45bd-b0b1-d377fa3a10c0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-    </list>
+    <list default="true" id="ed834ffe-b496-45bd-b0b1-d377fa3a10c0" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,6 +15,7 @@
     <session id="-1849779242">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -48,7 +47,7 @@
           <entry key="ejs" value="347" />
           <entry key="js" value="845" />
           <entry key="json" value="76" />
-          <entry key="md" value="313" />
+          <entry key="md" value="321" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -56,14 +55,14 @@
           <entry key="EJS" value="347" />
           <entry key="JSON" value="76" />
           <entry key="JavaScript" value="845" />
-          <entry key="Markdown" value="313" />
+          <entry key="Markdown" value="321" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="352">
@@ -99,12 +98,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="207">
-                <caret line="14" column="1" selection-start-line="14" selection-end-line="14" selection-end-column="28" />
+              <first_editor relative-caret-position="88">
+                <caret line="4" column="47" lean-forward="true" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
               </first_editor>
               <second_editor />
             </state>
@@ -162,13 +161,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/routes/upload.js" />
         <option value="$PROJECT_DIR$/routes/uploadApi.js" />
         <option value="$PROJECT_DIR$/views/index.ejs" />
         <option value="$PROJECT_DIR$/routes/dataList.js" />
-        <option value="$PROJECT_DIR$/db/db.txt" />
         <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/db/db.txt" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -211,11 +210,6 @@
               <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
               <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
               <item name="db" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
@@ -265,16 +259,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565195294428</updated>
-      <workItem from="1565195296039" duration="15815000" />
+      <workItem from="1565195296039" duration="16034000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15815000" />
+    <option name="totallyTimeSpent" value="16034000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
@@ -343,16 +336,6 @@
     <entry file="file://$PROJECT_DIR$/uploads/Single-1565207188066.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="207">
-            <caret line="14" column="1" selection-start-line="14" selection-end-line="14" selection-end-column="28" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/index.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -366,9 +349,6 @@
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/db.txt">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/uploadApi.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -397,6 +377,19 @@
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/db.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="88">
+            <caret line="4" column="47" lean-forward="true" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
