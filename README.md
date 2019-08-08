@@ -2,7 +2,7 @@ A simple upload server
 
 TechStack 
 
-`nodejs` `express` `multer` `fs` `ejs`
+`nodejs` `express` `multer` `fs` `ejs` `helmet`
 
 Clone the repo and then run **npm install**
 
